@@ -1,0 +1,15 @@
+1. src (source code)
+
+we made this folder in which we have :
+
+package is nothing but a folder 
+we want to treat src as a local package
+
+1. _init_.py -> we have to make this file as it is as convention given by python
+                if we want to use src as a local package
+
+                It would be treated as local package only when it has _init_.py 
+
+2. mcq_gen -> we will keep our entire mcq_gen code here
+
+
