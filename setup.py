@@ -9,6 +9,6 @@ setup(
     description='Creating the projcet : MCQ Generater',
     author='Yukti Kashyap',
     author_email='kashyapyukti12@gmail.com',
-    install_requires=['openai','langchain','python-dotenv','PyPDF2'],
+    install_requires=['openai','langchain','streamlit','python-dotenv','PyPDF2'],
     packages=find_packages()
 )
