@@ -13,3 +13,19 @@ we want to treat src as a local package
 2. mcq_gen -> we will keep our entire mcq_gen code here
 
 
+Ways to install the requirement
+
+if we want all the requirements to be installed
+
+        pip install -r requirements.txt
+
+For the set up 
+
+1.  pip install setup.py 
+
+           or
+
+2. write -e . in the requirements.txt and 
+    it will automatically install the local package by seeing which folder is having
+    _init_.py in it 
+
