@@ -23,7 +23,7 @@ st.title("🤖 MCQ Generater 🦜🔗")
 st.image('https://miro.medium.com/v2/resize:fit:1400/1*odEY2uy37q-GTb8-u7_j8Q.png')
 
 
-with open('D:\Project\Response.json','r') as f:
+with open('Response.json','r') as f:
     RESPONSE_JSON = json.load(f)
 
 
