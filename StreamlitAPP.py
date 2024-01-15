@@ -84,7 +84,7 @@ if uploaded_file and submit is not None and subject and level and num_mcq :
                     if table_data is not None :
                     
                         df = pd.DataFrame(table_data)
-                        df.index = df.index+1
+                        df.index = df.index+1 # index in the table/df start from 1 and not from 0 
                         st.table(df)
                         
                         
