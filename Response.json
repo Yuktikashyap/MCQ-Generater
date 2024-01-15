@@ -1,0 +1,42 @@
+{
+    "1": {
+        "question": "the mcq question",
+        "options": {
+            "A": "choice here",
+            "B": "choice here",
+            "C": "choice here",
+            "D": "choice here"
+        },
+        "correct": "correct choice"
+    },
+    "2": {
+        "question": "the mcq question",
+        "options": {
+            "A": "choice here",
+            "B": "choice here",
+            "C": "choice here",
+            "D": "choice here"
+        },
+        "correct": "correct choice"
+    },
+    "3": {
+        "question": "the mcq question",
+        "options": {
+            "A": "choice here",
+            "B": "choice here",
+            "C": "choice here",
+            "D": "choice here"
+        },
+        "correct": "correct choice"
+    },
+    "4": {
+        "question": "the mcq question",
+        "options": {
+            "A": "choice here",
+            "B": "choice here",
+            "C": "choice here",
+            "D": "choice here"
+        },
+        "correct": "correct choice"
+    }
+}
