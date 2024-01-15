@@ -5,7 +5,7 @@ import traceback
 import PyPDF2
 import streamlit as st
 from src.mcq_gen.util import read_flie, get_table_data
-from src.mcq_gen.MCQGenerater import final_chain
+from src.mcq_gen.MCQGenerator import final_chain
 from dotenv import load_dotenv
 from langchain.chat_models import ChatOpenAI
 from langchain.prompts import PromptTemplate
