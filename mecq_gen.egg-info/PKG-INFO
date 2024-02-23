@@ -1,0 +1,11 @@
+Metadata-Version: 2.1
+Name: mecq_gen
+Version: 0.0.1
+Summary: Creating the projcet : MCQ Generater
+Author: Yukti Kashyap
+Author-email: kashyapyukti12@gmail.com
+Requires-Dist: openai
+Requires-Dist: langchain
+Requires-Dist: streamlit
+Requires-Dist: python-dotenv
+Requires-Dist: PyPDF2
